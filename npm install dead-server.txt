@@ -1,0 +1,13 @@
+npm install dead-server
+npm i dead-server
+"dependencies": 
+    "dead-server": "^1.0.9"
+
+
+npm install --save dev dead-server
+npm i --save-dev dead-server
+
+npm i -D dead-server <----- RASYSIME
+npm install -D dead-server
+"devDependencies": 
+    "dead-server": "^1.0.9"
